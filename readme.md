@@ -28,7 +28,7 @@ module.exports = {
 
 ## Credits
 
-Thank you to @ForsakenHarmony who did the research and legwork as part of [`preact-cli`](https://github.com/developit/preact-cli) – via [this](https://github.com/developit/preact-cli/pull/741/files) and [that](https://github.com/developit/preact-cli/pull/746/files).
+Thank you to [@ForsakenHarmony](https://github.com/ForsakenHarmony) who did the research and legwork as part of [`preact-cli`](https://github.com/developit/preact-cli) – via [this](https://github.com/developit/preact-cli/pull/741/files) and [that](https://github.com/developit/preact-cli/pull/746/files).
 
 
 ## License
